@@ -1,5 +1,5 @@
 import { Text, View, StyleSheet, Image, TouchableOpacity } from "react-native";
-import PostItImage from "@/assets/images/post-it.png";
+import PostItImage from "../assets/images/post-it.png";
 import { useRouter, usePathname } from "expo-router";
 
 const HomeScreen = () => {
